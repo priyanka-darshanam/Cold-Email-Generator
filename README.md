@@ -38,7 +38,6 @@ pip install -r requirements.txt
 Create a .env file in the root directory and add your API keys:
 ```makefile
 GOOGLE_API_KEY=your_google_api_key
-OTHER_API_KEY=your_other_api_key
 ```
 
 ### 4. Run the Application
@@ -48,7 +47,15 @@ streamlit run app.py
 ```
 Your application will be available on http://localhost:8501.
 
+## Output Image
+
+![Output Image](output.png)
+
 ## How It Works
 1. Users input job descriptions or URLs.
 2. The application extracts job details and generates a personalized cold email based on the input.
 3. The email is displayed in the user interface for further customization or sending.
+
+## Contact
+- Name: Priyanka Darshanam
+- Email: priyankadarshanam2000@gmail.com
