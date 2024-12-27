@@ -43,7 +43,7 @@ GOOGLE_API_KEY=your_google_api_key
 ### 4. Run the Application
 Start the app locally by running:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 Your application will be available on http://localhost:8501.
 
